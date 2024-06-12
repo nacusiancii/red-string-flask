@@ -15,7 +15,7 @@ featured_jobs = [
         "minSalary": 11,
         "maxSalary": 17,
         "tags": ["JavaScript", "React", "CSS"],
-        "iconUrl": "./src/assets/openAILogo",
+        "iconUrl": "openAILogo",
         "posted": "16-May-2023",
     },
     {
@@ -29,7 +29,7 @@ featured_jobs = [
         "minSalary": 105,
         "maxSalary": 150,
         "tags": ["Node.js", "Express", "MongoDB"],
-        "iconUrl": "./src/assets/openAILogo",
+        "iconUrl": "openAILogo",
         "posted": "20-May-2023",
     },
     {
@@ -43,7 +43,7 @@ featured_jobs = [
         "minSalary": 6,
         "maxSalary": 9,
         "tags": ["JavaScript", "React", "Node.js"],
-        "iconUrl": "./src/assets/redStringLogo",
+        "iconUrl": "redStringLogo",
         "posted": "21-May-2023",
     },
     {
@@ -57,7 +57,7 @@ featured_jobs = [
         "minSalary": 10,
         "maxSalary": 25,
         "tags": ["Python", "Machine Learning", "SQL"],
-        "iconUrl": "./src/assets/amazonLogo",
+        "iconUrl": "amazonLogo",
         "posted": "21-May-2023",
     },
 ]
